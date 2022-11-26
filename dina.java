@@ -1,4 +1,4 @@
-public class Java{
+public class dina{
 
 public static void main(String args[]){
 
