@@ -1,5 +1,5 @@
 FROM openjdk
 WORKDIR /app
-COPY Dina.java .
-RUN javac Dina.java
-CMD java Dina
+COPY dina.java .
+RUN javac dina.java
+CMD java dina
